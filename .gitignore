@@ -1,0 +1,17 @@
+# Firebase
+.firebase/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local env files
+.env
+.env.local
